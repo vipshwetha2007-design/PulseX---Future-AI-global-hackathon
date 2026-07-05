@@ -146,8 +146,8 @@ http://localhost:5173
 ## 👥 Team – Rookie Coders
 
 - 👩‍💻 Shwetha V
-- 👨‍💻 Vishak M
 - 👨‍💻 Avinash S
+- 👨‍💻 Vishak M
 - 👨‍💻 Siva V
 
 ---
